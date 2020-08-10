@@ -1,4 +1,6 @@
 # gitTNT
 练习git
 
-练习分支
+创建新分支dev
+
+不使用fast-forward模式
